@@ -1,0 +1,1 @@
+`--force-with-lease` is a safer option than `--force` that will not overwrite any work on the remote branch if more commits were added to the remote branch (by another team-member or coworker or what have you). It ensures you do not overwrite someone elses work by force pushing.
