@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "Plugin",
-      "template": "Plugin/NewNoteTemplate.md.md"
+      "template": "Plugin/202410021542_AutoTitleWithTable.md.md"
     }
   ],
   "enable_file_templates": false,

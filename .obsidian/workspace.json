@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "590d73109b2e64b8",
+        "id": "9b1cc6d310131fa5",
         "type": "tabs",
         "children": [
           {
-            "id": "7851f0c8fb52ceec",
+            "id": "16e2c107ac25036d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plugin/AutoTitleWithTable.md.md",
+                "file": "Skill/JavaScript/2. Variables, Arrays and Objects/Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,29 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ada349ad0f6423e4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Plugin/AutoTitleWithTable.md.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "1620eb283b73c624",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plugin/AutoTitleWithTable.md.md",
+                "file": "Skill/JavaScript/2. Variables, Arrays and Objects/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +108,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plugin/AutoTitleWithTable.md.md"
+                "file": "Skill/JavaScript/2. Variables, Arrays and Objects/Variables.md"
+              }
+            }
+          },
+          {
+            "id": "ada349ad0f6423e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Skill/JavaScript/2. Variables, Arrays and Objects/Variables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -147,30 +147,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "125449d2adfe12e0",
+  "active": "16e2c107ac25036d",
   "lastOpenFiles": [
+    "Skill/JavaScript/1. Numbers, String and Operators/String.md",
+    "Skill/JavaScript/1. Numbers, String and Operators/Operators.md",
+    "Skill/JavaScript/1. Numbers, String and Operators/Numbers.md",
+    "School/asdadsa.md",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Arrays/202410021611_Method  pop,push,shift,unshift.md",
+    "Images/Pasted image 20241002161807.png",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Arrays/202410021554_Array Index.md",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Arrays/202410021549_Array Declaration.md",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Arrays/Method  pop,push,shift,unshift.md",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Arrays/Array Index.md",
+    "Untitled 2.md",
+    "hubs/git.md",
+    "hubs/Array.md",
+    "hubs",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Arrays/Untitled 1.md",
+    "Plugin/202410021542_AutoTitleWithTable.md.md",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Arrays/202410021548_Untitled.md",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Arrays",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Arrays.md",
+    "202410021543_Untitled 1.md",
+    "Untitled 1.md",
+    "202410021543_Untitled.md",
+    "Untitled.md",
     "README.md",
+    "Plugin/AutoTitleWithTable.md.md",
+    "School/asasd.md",
     "zettel",
     "Skill/JavaScript/About JS/Statements.md",
     "Skill/JavaScript/About JS/JavaScript.md",
     "Skill/JavaScript/About JS/Comment.md",
-    "Skill/JavaScript/2. Variables, Arrays and Objects/Variables.md",
-    "Skill/JavaScript/1. Numbers, String and Operators/String.md",
-    "Skill/JavaScript/1. Numbers, String and Operators/Operators.md",
-    "Skill/JavaScript/1. Numbers, String and Operators/Numbers.md",
-    "Skill/git/git.md",
-    "Skill/git/git status.md",
-    "Skill/git/git stash.md",
-    "Skill/git/git push.md",
-    "Skill/git/git push force.md",
-    "Skill/git/git push force-with-lease.md",
-    "Skill/git/git pull.md",
-    "Skill/git/git init.md",
-    "Skill/git/git commit.md",
-    "Skill/git/git checkout.md",
-    "Skill/git/git branch.md",
-    "Skill/git/git amend.md",
-    "Skill/git/git add.md",
     "Skill/JavaScript/About JS",
     "Skill/JavaScript/2. Variables, Arrays and Objects",
     "Skill/JavaScript/1. Numbers, String and Operators",
@@ -178,15 +186,8 @@
     "Skill/JavaScript",
     "Skill",
     "School",
-    "inbox",
     "Images/Pasted image 20241002102755.png",
-    "Images",
     "Untitled.canvas",
-    "Plugin/AutoTitleWithTable.md.md",
-    "Plugin/hello.md",
-    "Plugin/Gello.md",
-    "Images.md",
-    "Pasted image 20241002102743.png",
-    "Enouvo/ISMS.md"
+    "Pasted image 20241002102743.png"
   ]
 }
