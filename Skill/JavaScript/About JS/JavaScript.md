@@ -1,5 +1,5 @@
-[[JavaScript]] was created by Netscape’s Brendan Eich in 1995. It was originally intended as a simpler scripting language for websites, complementing the use of Java for more complex web applications, but its tight integration with Web pages and built-in support in browsers has caused it to become far more common than Java in web frontends.
+[[Skill/JavaScript/About JS/JavaScript]] was created by Netscape’s Brendan Eich in 1995. It was originally intended as a simpler scripting language for websites, complementing the use of Java for more complex web applications, but its tight integration with Web pages and built-in support in browsers has caused it to become far more common than Java in web frontends.
 
-[[JavaScript]] isn’t just limited to web browsers, though: Node.js, a project that provides a standalone runtime for Google Chrome’s V8 JavaScript engine, is becoming more and more popular.
+[[Skill/JavaScript/About JS/JavaScript]] isn’t just limited to web browsers, though: Node.js, a project that provides a standalone runtime for Google Chrome’s V8 JavaScript engine, is becoming more and more popular.
 
-[[JavaScript]] has a C-like syntax, so if you’ve used languages like C or Java, a lot of the basic syntax will already be familiar. Despite this, and despite the similarity in name, JavaScript’s object model is significantly different to Java’s.
+[[Skill/JavaScript/About JS/JavaScript]] has a C-like syntax, so if you’ve used languages like C or Java, a lot of the basic syntax will already be familiar. Despite this, and despite the similarity in name, JavaScript’s object model is significantly different to Java’s.

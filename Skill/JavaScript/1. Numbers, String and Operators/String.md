@@ -1,4 +1,4 @@
-String can created with ' or ''
+String can created with ' or '' and `
 ```
 'abc';
 "Hello world"
