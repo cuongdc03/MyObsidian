@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skill/JavaScript/202410101122_Eslint & Prettier.md",
+                "file": "Skill/TypeScript/Types/202410101515_Interfaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skill/JavaScript/202410101122_Eslint & Prettier.md",
+                "file": "Skill/TypeScript/Types/202410101515_Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skill/JavaScript/202410101122_Eslint & Prettier.md"
+                "file": "Skill/TypeScript/Types/202410101515_Interfaces.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skill/JavaScript/202410101122_Eslint & Prettier.md",
+                "file": "Skill/TypeScript/Types/202410101515_Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +149,21 @@
   },
   "active": "b0ca496e0fa6b948",
   "lastOpenFiles": [
-    "Skill/JavaScript/Eslint & Prettier.md",
+    "Skill/TypeScript/Types/202410101508_Type Aliases.md",
+    "Skill/TypeScript/Types/202410101515_Interfaces.md",
+    "Skill/TypeScript/Types/Interfaces.md",
+    "Skill/TypeScript/Types/Type Aliases.md",
+    "Skill/TypeScript/Types/202410101503_Union Types.md",
+    "Skill/TypeScript/Types/Union Types.md",
+    "Skill/TypeScript/Types/202410101459_Optional Properties.md",
+    "Skill/TypeScript/Interfaces.md",
+    "Skill/TypeScript/Optional Properties.md",
+    "Skill/TypeScript/Types",
+    "Skill/TypeScript/Types/202410091606_Interfaces vs type aliases.md",
+    "Pasted image 20241010145011.png",
+    "Pasted image 20241010145001.png",
     "Skill/JavaScript/202410101122_Eslint & Prettier.md",
+    "Skill/JavaScript/Eslint & Prettier.md",
     "Skill/Untitled.md",
     "Skill/JavaScript/Memory Management/202410091030_Memory lifecycle.md",
     "Skill/JavaScript/Iterators and Generators/202410091011_Iterators.md",
@@ -165,17 +178,7 @@
     "Skill/JavaScript/Functions/202410082257_Closures.md",
     "Skill/JavaScript/Functions/202410082254_Lexical Scoping.md",
     "Skill/JavaScript/Functions/202410082209_Using the arguments object.md",
-    "Skill/JavaScript/Functions/202410082248_IIFE.md",
-    "Skill/JavaScript/Functions/202410082240_Arrow Function.md",
-    "Skill/JavaScript/Functions/202410082228_Function Parameter.md",
-    "Skill/TypeScript/202410091606_Interfaces vs type aliases.md",
-    "Skill/TypeScript/Interfaces.md",
-    "Skill/JavaScript/This keyword/Function Borrowing & Explicit Binding/202410090051_call.md",
-    "hubs/TypeScript.md",
     "Skill/TypeScript",
-    "Skill/JavaScript/Memory Management/202410091027_Garbage Collection.md",
-    "Skill/JavaScript/1. Numbers, String and Operators/Operators.md",
-    "Skill/JavaScript/Using Browser DevTools/Debugging issues.md",
     "Pasted image 20241009142102.png",
     "Skill/JavaScript/Using Browser DevTools",
     "Skill/JavaScript/Memory Management",
@@ -191,10 +194,7 @@
     "Skill/JavaScript/Asynchronous",
     "Pasted image 20241009090402.png",
     "Skill/JavaScript/Event Loop",
-    "Skill/JavaScript/This keyword/Untitled/Untitled",
     "Images/Pasted image 20241004221207.png",
-    "Images/Pasted image 20241004143427.png",
-    "Images/Pasted image 20241004102909.png",
     "Untitled.canvas"
   ]
 }
