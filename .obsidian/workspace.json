@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b7dd3ad85986278f",
+        "id": "1e35f2cdcd7f839c",
         "type": "tabs",
         "children": [
           {
-            "id": "e9c497f050ce5cae",
+            "id": "b0ca496e0fa6b948",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Skill/JavaScript/202410101122_Eslint & Prettier.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skill/JavaScript/Functions/202410082254_Lexical Scoping.md",
+                "file": "Skill/JavaScript/202410101122_Eslint & Prettier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skill/JavaScript/Functions/202410082254_Lexical Scoping.md"
+                "file": "Skill/JavaScript/202410101122_Eslint & Prettier.md"
               }
             }
           },
@@ -115,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skill/JavaScript/Functions/202410082254_Lexical Scoping.md",
+                "file": "Skill/JavaScript/202410101122_Eslint & Prettier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,35 +147,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fabcd13932ac259d",
+  "active": "b0ca496e0fa6b948",
   "lastOpenFiles": [
+    "Skill/JavaScript/Eslint & Prettier.md",
+    "Skill/JavaScript/202410101122_Eslint & Prettier.md",
+    "Skill/Untitled.md",
+    "Skill/JavaScript/Memory Management/202410091030_Memory lifecycle.md",
+    "Skill/JavaScript/Iterators and Generators/202410091011_Iterators.md",
+    "Skill/JavaScript/Classes/202410090959_Class basic syntax.md",
+    "Skill/JavaScript/Classes/202410091450_Inheritance_Class.md",
+    "Skill/JavaScript/Asynchronous/202410090939_Async - await.md",
+    "Skill/JavaScript/Asynchronous/202410090922_callbacks.md",
+    "Skill/JavaScript/Event Loop/202410090859_Define Event Loop.md",
+    "Skill/JavaScript/This keyword/202410090041_this in a function.md",
+    "Skill/JavaScript/This keyword/202410090034_in a method.md",
     "Skill/JavaScript/202410082304_Strict Mode.md",
+    "Skill/JavaScript/Functions/202410082257_Closures.md",
+    "Skill/JavaScript/Functions/202410082254_Lexical Scoping.md",
+    "Skill/JavaScript/Functions/202410082209_Using the arguments object.md",
+    "Skill/JavaScript/Functions/202410082248_IIFE.md",
+    "Skill/JavaScript/Functions/202410082240_Arrow Function.md",
+    "Skill/JavaScript/Functions/202410082228_Function Parameter.md",
     "Skill/TypeScript/202410091606_Interfaces vs type aliases.md",
     "Skill/TypeScript/Interfaces.md",
-    "Skill/JavaScript/Event Loop/202410090859_Define Event Loop.md",
     "Skill/JavaScript/This keyword/Function Borrowing & Explicit Binding/202410090051_call.md",
     "hubs/TypeScript.md",
-    "Skill/JavaScript/Memory Management/202410091030_Memory lifecycle.md",
     "Skill/TypeScript",
     "Skill/JavaScript/Memory Management/202410091027_Garbage Collection.md",
-    "Skill/JavaScript/Asynchronous/202410090922_callbacks.md",
     "Skill/JavaScript/1. Numbers, String and Operators/Operators.md",
     "Skill/JavaScript/Using Browser DevTools/Debugging issues.md",
-    "Skill/JavaScript/Classes/Inheritance_Class.md",
-    "Promise.md",
-    "this Alone.md",
-    "Skill/JavaScript/Loop and Interation/continue.md",
-    "Skill/JavaScript/Memory Management/Garbage Collection.md",
-    "Skill/JavaScript/2. Variables, Arrays and Objects/Variables.md",
-    "Skill/JavaScript/This keyword/Function Borrowing & Explicit Binding/apply.md",
-    "Skill/JavaScript/Memory Management/Memory lifecycle.md",
-    "Skill/JavaScript/Working with APIS/XMLHTTPRequest.md",
-    "Skill/JavaScript/Modules in JavaScript/202410091015_ESM.md",
-    "Skill/JavaScript/Classes/202410091452_binding this with instance and static methods.md",
-    "Skill/JavaScript/Event Loop/setTimeout.md",
-    "Skill/JavaScript/Event Loop/Define Event Loop.md",
-    "Skill/JavaScript/Classes/binding this with instance and static methods.md",
-    "Skill/JavaScript/Classes/202410091450_Inheritance_Class.md",
     "Pasted image 20241009142102.png",
     "Skill/JavaScript/Using Browser DevTools",
     "Skill/JavaScript/Memory Management",
