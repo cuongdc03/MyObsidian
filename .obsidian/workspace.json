@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e35f2cdcd7f839c",
+        "id": "0749ac062845cc3e",
         "type": "tabs",
         "children": [
           {
-            "id": "b0ca496e0fa6b948",
+            "id": "aeaa95d4cf8fb080",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skill/TypeScript/Types/202410101515_Interfaces.md",
+                "file": "Skill/UnitTest/202410161642_Big Picture about Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skill/TypeScript/Types/202410101515_Interfaces.md",
+                "file": "Skill/UnitTest/202410161642_Big Picture about Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skill/TypeScript/Types/202410101515_Interfaces.md"
+                "file": "Skill/UnitTest/202410161642_Big Picture about Testing.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skill/TypeScript/Types/202410101515_Interfaces.md",
+                "file": "Skill/UnitTest/202410161642_Big Picture about Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,54 +147,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0ca496e0fa6b948",
+  "active": "125449d2adfe12e0",
   "lastOpenFiles": [
-    "Skill/TypeScript/Types/202410101508_Type Aliases.md",
-    "Skill/TypeScript/Types/202410101515_Interfaces.md",
-    "Skill/TypeScript/Types/Interfaces.md",
-    "Skill/TypeScript/Types/Type Aliases.md",
-    "Skill/TypeScript/Types/202410101503_Union Types.md",
-    "Skill/TypeScript/Types/Union Types.md",
-    "Skill/TypeScript/Types/202410101459_Optional Properties.md",
-    "Skill/TypeScript/Interfaces.md",
-    "Skill/TypeScript/Optional Properties.md",
-    "Skill/TypeScript/Types",
-    "Skill/TypeScript/Types/202410091606_Interfaces vs type aliases.md",
-    "Pasted image 20241010145011.png",
-    "Pasted image 20241010145001.png",
-    "Skill/JavaScript/202410101122_Eslint & Prettier.md",
-    "Skill/JavaScript/Eslint & Prettier.md",
-    "Skill/Untitled.md",
-    "Skill/JavaScript/Memory Management/202410091030_Memory lifecycle.md",
-    "Skill/JavaScript/Iterators and Generators/202410091011_Iterators.md",
-    "Skill/JavaScript/Classes/202410090959_Class basic syntax.md",
-    "Skill/JavaScript/Classes/202410091450_Inheritance_Class.md",
-    "Skill/JavaScript/Asynchronous/202410090939_Async - await.md",
-    "Skill/JavaScript/Asynchronous/202410090922_callbacks.md",
-    "Skill/JavaScript/Event Loop/202410090859_Define Event Loop.md",
-    "Skill/JavaScript/This keyword/202410090041_this in a function.md",
-    "Skill/JavaScript/This keyword/202410090034_in a method.md",
-    "Skill/JavaScript/202410082304_Strict Mode.md",
-    "Skill/JavaScript/Functions/202410082257_Closures.md",
-    "Skill/JavaScript/Functions/202410082254_Lexical Scoping.md",
-    "Skill/JavaScript/Functions/202410082209_Using the arguments object.md",
-    "Skill/TypeScript",
-    "Pasted image 20241009142102.png",
-    "Skill/JavaScript/Using Browser DevTools",
-    "Skill/JavaScript/Memory Management",
-    "Skill/JavaScript/Modules in JavaScript",
-    "Skill/JavaScript/Iterators and Generators",
-    "Pasted image 20241009100140.png",
-    "Skill/JavaScript/Classes",
-    "Skill/JavaScript/Working with APIS",
-    "Pasted image 20241009094310.png",
-    "Pasted image 20241009093124.png",
-    "Pasted image 20241009093056.png",
+    "Skill/UnitTest/Chapter1 Getting Started",
+    "Skill/UnitTest/Big Picture about Testing.md",
+    "Skill/UnitTest/202410161642_Big Picture about Testing.md",
+    "Pasted image 20241016164228.png",
+    "Skill/UnitTest",
+    "hubs/Unit Test.md",
+    "Skill/SQL/Common Table Expression/202410161352_What is CTE.md",
+    "Skill/SQL/Common Table Expression/What is CTE.md",
+    "hubs/SQL.md",
+    "Skill/SQL/Common Table Expression",
+    "Skill/SQL",
+    "Skill/TypeScript/Type Modifier/202410111426_Type predicates.md",
+    "Book/learning_typescript.pdf",
+    "Skill/TypeScript/Advanced Types/202410151132_Recursive Type.md",
+    "Skill/TypeScript/Advanced Types/202410151117_Template Literal.md",
+    "Skill/TypeScript/Advanced Types/202410151102_Literal Types.md",
+    "Skill/TypeScript/Advanced Types/202410151054_Conditional Types.md",
+    "Skill/TypeScript/Advanced Types/202410151028_Mapped Types.md",
+    "Skill/TypeScript/Type Modifier/202410111402_Top Types.md",
+    "Skill/TypeScript/Type Guard - Narrowing/202410150704_instanceof.md",
+    "Book/Vasilik, Sylvia Moestl - SQL Practice Problems_ 57 Beginning, Intermediate, and Advanced Challenges for You to Solve Using a _Learn-By-Doing_ Approach-Createspace Independent Publishing Platform (20.pdf",
+    "Book/object_design_style_guide_matthias_noback.pdf",
+    "Book/the_art_of_unit_testing.pdf",
+    "Skill/TypeScript/Advanced Types/Recursive Type.md",
+    "Skill/TypeScript/Advanced Types/Template Literal.md",
+    "Skill/TypeScript/Advanced Types/Literal Types.md",
+    "Skill/TypeScript/Conditional Types.md",
+    "Skill/TypeScript/Advanced Types/Mapped Types.md",
+    "Skill/TypeScript/Utility Types/202410151024_InstanceType.md",
+    "Skill/TypeScript/Advanced Types",
+    "Skill/TypeScript/Utility Types/InstanceType.md",
+    "Skill/TypeScript/Utility Types/202410151017_ReturnType.md",
+    "Skill/TypeScript/Utility Types/ReturnType.md",
+    "Skill/TypeScript/Utility Types/202410151015_Non Nullable.md",
+    "Skill/TypeScript/Utility Types/Non Nullable.md",
+    "Untitled.canvas",
+    "Skill/TypeScript/Utility Types",
+    "Skill/TypeScript/Decorator",
+    "Pasted image 20241015090010.png",
+    "Pasted image 20241011142738.png",
+    "Pasted image 20241011142345.png",
+    "Pasted image 20241011142030.png",
+    "Pasted image 20241011142029.png",
     "Pasted image 20241009093000.png",
-    "Skill/JavaScript/Asynchronous",
-    "Pasted image 20241009090402.png",
-    "Skill/JavaScript/Event Loop",
-    "Images/Pasted image 20241004221207.png",
-    "Untitled.canvas"
+    "Pasted image 20241011111938.png",
+    "Pasted image 20241011100603.png",
+    "Pasted image 20241011094404.png"
   ]
 }
