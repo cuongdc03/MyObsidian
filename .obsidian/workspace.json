@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0749ac062845cc3e",
+        "id": "7220196ece41b672",
         "type": "tabs",
         "children": [
           {
-            "id": "aeaa95d4cf8fb080",
+            "id": "fdb3d00372026f06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skill/UnitTest/202410161642_Big Picture about Testing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +48,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Type",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,10 +64,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,10 +90,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skill/UnitTest/202410161642_Big Picture about Testing.md",
+                "file": "Skill/OOPDesign/Creating other objects/202410171636_Extract new objects to prevent domain invariants frombeing verified in multiple places.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 202410171636_Extract new objects to prevent domain invariants frombeing verified in multiple places"
             }
           },
           {
@@ -99,7 +106,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -108,8 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skill/UnitTest/202410161642_Big Picture about Testing.md"
-              }
+                "file": "Skill/OOPDesign/Creating other objects/202410171636_Extract new objects to prevent domain invariants frombeing verified in multiple places.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 202410171636_Extract new objects to prevent domain invariants frombeing verified in multiple places"
             }
           },
           {
@@ -118,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skill/UnitTest/202410161642_Big Picture about Testing.md",
+                "file": "Skill/OOPDesign/Creating other objects/202410171636_Extract new objects to prevent domain invariants frombeing verified in multiple places.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +137,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 202410171636_Extract new objects to prevent domain invariants frombeing verified in multiple places"
             }
           }
         ]
@@ -147,54 +160,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "125449d2adfe12e0",
+  "active": "fdb3d00372026f06",
   "lastOpenFiles": [
-    "Skill/UnitTest/Chapter1 Getting Started",
-    "Skill/UnitTest/Big Picture about Testing.md",
-    "Skill/UnitTest/202410161642_Big Picture about Testing.md",
-    "Pasted image 20241016164228.png",
-    "Skill/UnitTest",
-    "hubs/Unit Test.md",
-    "Skill/SQL/Common Table Expression/202410161352_What is CTE.md",
-    "Skill/SQL/Common Table Expression/What is CTE.md",
-    "hubs/SQL.md",
-    "Skill/SQL/Common Table Expression",
-    "Skill/SQL",
-    "Skill/TypeScript/Type Modifier/202410111426_Type predicates.md",
-    "Book/learning_typescript.pdf",
-    "Skill/TypeScript/Advanced Types/202410151132_Recursive Type.md",
-    "Skill/TypeScript/Advanced Types/202410151117_Template Literal.md",
-    "Skill/TypeScript/Advanced Types/202410151102_Literal Types.md",
-    "Skill/TypeScript/Advanced Types/202410151054_Conditional Types.md",
-    "Skill/TypeScript/Advanced Types/202410151028_Mapped Types.md",
-    "Skill/TypeScript/Type Modifier/202410111402_Top Types.md",
-    "Skill/TypeScript/Type Guard - Narrowing/202410150704_instanceof.md",
-    "Book/Vasilik, Sylvia Moestl - SQL Practice Problems_ 57 Beginning, Intermediate, and Advanced Challenges for You to Solve Using a _Learn-By-Doing_ Approach-Createspace Independent Publishing Platform (20.pdf",
+    "202410090932_Promise.md",
+    "Skill/JavaScript/Asynchronous/202410090922_callbacks.md",
+    "Skill/JavaScript/Asynchronous/202410090909_setTimeout.md",
+    "Skill/JavaScript/Asynchronous/202410090913_setInterval.md",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Object/202410041133_Object prototypes.md",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Arrays/202410021611_Method  pop,push,shift,unshift.md",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Arrays/202410021554_Array Index.md",
+    "Skill/JavaScript/2. Variables, Arrays and Objects/Arrays/202410021549_Array Declaration.md",
+    "Skill/TypeScript/Types/202410101503_Union Types.md",
+    "hubs/JavaScript.md",
     "Book/object_design_style_guide_matthias_noback.pdf",
+    "Skill/OOPDesign/Creating other objects/202410171636_Extract new objects to prevent domain invariants frombeing verified in multiple places.md",
+    "Pasted image 20241017163703.png",
+    "Skill/OOPDesign/Creating other objects/Extract new objects to prevent domain invariants frombeing verified in multiple places.md",
+    "Skill/OOPDesign/Creating other objects/202410171625_Require data that is meaningful.md",
+    "Pasted image 20241017163200.png",
+    "Pasted image 20241017162733.png",
+    "Pasted image 20241017162633.png",
+    "Skill/OOPDesign/Creating other objects/Require data that is meaningful.md",
+    "Pasted image 20241017162532.png",
+    "Skill/OOPDesign/Creating other objects/202410171620_Require the minium amount of data needed to be have consistently.md",
+    "Pasted image 20241017162249.png",
+    "Pasted image 20241017162141.png",
+    "Skill/OOPDesign/Creating other objects/Require the minium amount of data needed to be have consistently.md",
+    "Skill/OOPDesign/Creating services/202410171558_Inject dependencies and configuration values as constructor arguments.md",
+    "Skill/OOPDesign/Creating other objects",
+    "Pasted image 20241017155957.png",
+    "Skill/OOPDesign/Creating services/Inject dependencies and configuration values as constructor arguments.md",
+    "hubs/OOP.md",
+    "Skill/OOPDesign/Creating services",
+    "Skill/SQL/Common Table Expression/202410161352_What is CTE.md",
+    "Skill/OOPDesign",
+    "Skill/UnitTest/Chapter2 the First unit test/202410171424_Using beforeEach().md",
+    "Skill/UnitTest/Chapter3 Breaking dependencies with stubs",
+    "Pasted image 20241017142451.png",
+    "Skill/UnitTest/Chapter2 the First unit test/Using beforeEach().md",
+    "Skill/UnitTest/Using Matchers/202410171407_Exceptions.md",
+    "Skill/UnitTest/Using Matchers/Exceptions.md",
+    "Skill/UnitTest/Using Matchers/202410171354_Strings.md",
+    "Skill/UnitTest/Using Matchers/Strings.md",
+    "Pasted image 20241017135430.png",
+    "Skill/UnitTest/Using Matchers",
+    "Skill/UnitTest/Chapter2 the First unit test",
     "Book/the_art_of_unit_testing.pdf",
-    "Skill/TypeScript/Advanced Types/Recursive Type.md",
-    "Skill/TypeScript/Advanced Types/Template Literal.md",
-    "Skill/TypeScript/Advanced Types/Literal Types.md",
-    "Skill/TypeScript/Conditional Types.md",
-    "Skill/TypeScript/Advanced Types/Mapped Types.md",
-    "Skill/TypeScript/Utility Types/202410151024_InstanceType.md",
-    "Skill/TypeScript/Advanced Types",
-    "Skill/TypeScript/Utility Types/InstanceType.md",
-    "Skill/TypeScript/Utility Types/202410151017_ReturnType.md",
-    "Skill/TypeScript/Utility Types/ReturnType.md",
-    "Skill/TypeScript/Utility Types/202410151015_Non Nullable.md",
-    "Skill/TypeScript/Utility Types/Non Nullable.md",
-    "Untitled.canvas",
-    "Skill/TypeScript/Utility Types",
-    "Skill/TypeScript/Decorator",
-    "Pasted image 20241015090010.png",
-    "Pasted image 20241011142738.png",
-    "Pasted image 20241011142345.png",
-    "Pasted image 20241011142030.png",
-    "Pasted image 20241011142029.png",
-    "Pasted image 20241009093000.png",
-    "Pasted image 20241011111938.png",
-    "Pasted image 20241011100603.png",
-    "Pasted image 20241011094404.png"
+    "Skill/UnitTest/Chapter1 Getting Started",
+    "Skill/UnitTest",
+    "Untitled.canvas"
   ]
 }
