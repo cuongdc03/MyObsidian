@@ -8,7 +8,7 @@ $ sudo -i -u postgres
 ```
 ## To use use a Database Terminal
 ```
-# psql -d my_pgdb
+# psql -d my_pgdbl
 ```
 ## To Change password 
 ```
