@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skill/Postgresql/202410042207_Config Password.md",
+                "file": "Acciona/Setup Tender.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410042207_Config Password"
+              "title": "Setup Tender"
+            }
+          },
+          {
+            "id": "fd182ac1f48bf13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acciona/Setup Tender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setup Tender"
+            }
+          },
+          {
+            "id": "bab30bd0bb39139f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acciona/SWMS/202412270018_Fill-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202412270018_Fill-template"
+            }
+          },
+          {
+            "id": "22ea61873ef951af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acciona/Setup Tender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Setup Tender"
+            }
+          },
+          {
+            "id": "c89de13cf55b6092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note 9-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "note 9-1"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -52,8 +109,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "postg",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -73,8 +130,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,36 +220,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4fcab8fc1874d924",
+  "active": "c89de13cf55b6092",
   "lastOpenFiles": [
-    "Skill/Data Engineering/202411131528_Untitled.md",
-    "Skill/Data Engineering/Untitled.md",
-    "Skill/Data Engineering/202410251530_Data Lake.md",
-    "hubs/Data Engineering.md",
-    "Skill/Postgresql/202410042207_Config Password.md",
-    "Skill/JavaScript/Google Dev Tools.md",
-    "Skill/JavaScript/Working with APIS/202410090951_Fetch.md",
-    "Skill/JavaScript/Functions/202410082248_IIFE.md",
-    "Skill/JavaScript/Asynchronous/202410090939_Async - await.md",
+    "Acciona/Setup Tender.md",
+    "note 9-1.md",
+    "Report 2-1-2025.md",
+    "Acciona/SWMS/202412270018_Fill-template.md",
+    "Acciona/Note 16_12.md",
+    "Acciona/Prompt.md",
+    "Acciona/Untitled.md",
+    "Trash/202412281029_PBL6 Skin Cancer Analyzer.md",
+    "Trash/PBL6 Skin Cancer Analyzer.md",
+    "Trash",
+    "202412281028_Untitled.md",
+    "Untitled.md",
+    "Acciona/SWMS/Fill-template.md",
+    "hubs/Enouvo.md",
+    "Acciona/SWMS",
+    "Acciona/Untitled 1.md",
+    "Skill/Python/202412190913_.md",
+    "Skill/Python/Untitled.md",
+    "Skill/Python",
+    "Skill/Untitled.md",
     "202410090932_Promise.md",
-    "Skill/JavaScript/Asynchronous/202410090922_callbacks.md",
-    "Skill/JavaScript/Event Loop/202410090859_Define Event Loop.md",
-    "Skill/LLM/202411081614_LLM pipeline.md",
+    "Untitled.canvas",
+    "202410090904_Phases Overview.md",
+    "Untitled 3.md",
+    "202412101528_Untitled 2.md",
+    "202412101527_Untitled 1.md",
+    "Untitled 2.md",
+    "Pasted image 20241210153906.png",
+    "Skill/Postgresql/202410042207_Config Password.md",
+    "more.md",
+    "moreAgent.md",
+    "Acciona",
     "Pasted image 20241108161404.png",
-    "Skill/LLM/LLM pipeline.md",
-    "Skill/LLM/202411072014_Chunk Size and Chunk Overlaps.md",
-    "Skill/LLM/Chunk Size and Chunk Overlaps.md",
-    "hubs/LLM.md",
-    "Skill/LLM/202411072013_Untitled.md",
-    "Skill/Design Patterns/Structural Patterns/202410241543_Adapter.md",
     "Skill/LLM",
-    "Skill/Design Patterns/Structural Patterns/202410241556_Bridge.md",
-    "Skill/Design Patterns/Structural Patterns/Adapter.md",
-    "Skill/Design Patterns/Creatational Patterns/202410241014_Factory Method vs Builder vs Abstract factory Method.md",
-    "Skill/Design Patterns/Creatational Patterns/202410240952_Builder.md",
-    "Skill/Design Patterns/Creatational Patterns/202410240925_Singleton.md",
-    "Skill/Data Engineering/Data Lake.md",
-    "Skill/Azure/Deploy FastAPI through Docker.md",
     "Book/object_design_style_guide_matthias_noback.pdf",
     "Pasted image 20241031101931.png",
     "Skill/Redis/Data Types",
@@ -201,17 +263,11 @@
     "Skill/Redis/Basic Command",
     "Skill/Redis",
     "Skill/Data Engineering",
-    "Skill/Clean Code",
     "Pasted image 20241024154438.png",
-    "Skill/Design Patterns/Structural Patterns",
-    "Skill/Design Patterns/Creatational Patterns",
     "Pasted image 20241024101533.png",
     "Pasted image 20241024101303.png",
     "Pasted image 20241024095806.png",
     "Pasted image 20241024093039.png",
-    "Skill/Design Patterns",
-    "Pasted image 20241023103529.png",
-    "Pasted image 20241023103500.png",
-    "Untitled.canvas"
+    "Pasted image 20241023103529.png"
   ]
 }
