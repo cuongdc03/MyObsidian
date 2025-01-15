@@ -13,72 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acciona/Setup Tender.md",
+                "file": "Acciona/Tender/SWMS Chat Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setup Tender"
-            }
-          },
-          {
-            "id": "fd182ac1f48bf13f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acciona/Setup Tender.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Setup Tender"
-            }
-          },
-          {
-            "id": "bab30bd0bb39139f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acciona/SWMS/202412270018_Fill-template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202412270018_Fill-template"
-            }
-          },
-          {
-            "id": "22ea61873ef951af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acciona/Setup Tender.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Setup Tender"
-            }
-          },
-          {
-            "id": "c89de13cf55b6092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note 9-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "note 9-1"
+              "title": "SWMS Chat Flow"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,9 +53,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -134,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 378.5,
+    "collapsed": true
   },
   "right": {
     "id": "dd391294ccf08d5b",
@@ -211,63 +155,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c89de13cf55b6092",
+  "active": "4fcab8fc1874d924",
   "lastOpenFiles": [
+    "training/Machine Learning.md",
+    "Acciona/Tender/SWMS Chat Flow.md",
+    "Acciona/Tender/GenAI for project information.md",
+    "Acciona/Tender/SWMS fill-template proposal.md",
+    "Acciona/Tender/SWMS fill-template project information Flow.md",
     "Acciona/Setup Tender.md",
+    "training/assignments/exp03_linked_list.zip",
+    "training/sample_code/sample_project.zip",
+    "training/python-resources/fluent-python-2nd-luciano-ramalho.pdf",
+    "training/assignments/exp01_sequence_parser.zip",
+    "training/assignments/exp02_list_node.zip",
+    "training/ai-resources/hands-on-machine-learning-with-scikit-learn-2nd-aurelien -geron.pdf",
+    "training/assignments/exp00_accumulator.zip",
+    "training/sample_code",
+    "training/python-resources",
+    "training/assignments",
+    "Untitled 1.md",
+    "Untitled 4.md",
+    "Acciona/Untitled.md",
+    "Pasted image 20250114092501.png",
+    "Screenshot 2025-01-14 at 09.24.00.png",
     "note 9-1.md",
     "Report 2-1-2025.md",
     "Acciona/SWMS/202412270018_Fill-template.md",
     "Acciona/Note 16_12.md",
     "Acciona/Prompt.md",
-    "Acciona/Untitled.md",
     "Trash/202412281029_PBL6 Skin Cancer Analyzer.md",
     "Trash/PBL6 Skin Cancer Analyzer.md",
-    "Trash",
     "202412281028_Untitled.md",
     "Untitled.md",
     "Acciona/SWMS/Fill-template.md",
     "hubs/Enouvo.md",
-    "Acciona/SWMS",
     "Acciona/Untitled 1.md",
     "Skill/Python/202412190913_.md",
     "Skill/Python/Untitled.md",
-    "Skill/Python",
     "Skill/Untitled.md",
     "202410090932_Promise.md",
     "Untitled.canvas",
     "202410090904_Phases Overview.md",
-    "Untitled 3.md",
-    "202412101528_Untitled 2.md",
-    "202412101527_Untitled 1.md",
-    "Untitled 2.md",
     "Pasted image 20241210153906.png",
-    "Skill/Postgresql/202410042207_Config Password.md",
-    "more.md",
-    "moreAgent.md",
-    "Acciona",
     "Pasted image 20241108161404.png",
-    "Skill/LLM",
-    "Book/object_design_style_guide_matthias_noback.pdf",
     "Pasted image 20241031101931.png",
-    "Skill/Redis/Data Types",
     "Pasted image 20241031101641.png",
-    "Skill/Redis/Basic Command",
-    "Skill/Redis",
-    "Skill/Data Engineering",
     "Pasted image 20241024154438.png",
     "Pasted image 20241024101533.png",
     "Pasted image 20241024101303.png",
-    "Pasted image 20241024095806.png",
-    "Pasted image 20241024093039.png",
-    "Pasted image 20241023103529.png"
+    "Pasted image 20241024095806.png"
   ]
 }
